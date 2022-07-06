@@ -1,0 +1,1 @@
+(compare(key,&base[mid])==0)
